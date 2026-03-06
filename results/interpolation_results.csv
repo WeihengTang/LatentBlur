@@ -1,0 +1,3 @@
+method,mse,psnr_db
+pixel_interp,2.885e-05,45.3984
+latent_interp,2.26e-05,46.459
